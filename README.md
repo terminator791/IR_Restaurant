@@ -36,6 +36,7 @@ No Absen : 23
 
 ## 🎨 Screenshots :
 (Tambahkan beberapa screenshot menarik aplikasi Anda di sini)
+[download](https://github.com/terminator791/IR_Restaurant/assets/118900502/c49b4698-f4fc-4c42-9d35-5586d29560c6)
 
 ## 🛠️ Pengaturan dan Instalasi :
 1. Clone repository ini.
@@ -53,7 +54,7 @@ No Absen : 23
 • Login dengan Firebase AUTH dan Facebook (Sedang dinoknatifkan)
 • Menambah item ke favorit dan menyimpannya dengan Shared Preference
 • GET API lokasi di INDONESIA
-• Filter Makanan dan Fitur Search
+• Filter Makanan dan Fitur Search!
 • State management dengan GetX
 • Fitur Stay Sign in dengan Shared Preference
 • Menyimpan Adrress dengan Shared Preference
