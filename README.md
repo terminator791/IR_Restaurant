@@ -1,4 +1,4 @@
-## **IR RESTAURANT**
+<strong>IR RESTAURANT</strong>
 
  <p align="center">
   <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
