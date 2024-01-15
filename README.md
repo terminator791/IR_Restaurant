@@ -6,9 +6,10 @@
   <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
 </p>
 
-## ⛱️ Mahasiswa 1 :
+Aplikasi ini dibuat Untuk Menlengkapi Tugas Besar dari Pemrograman Perangkat Bergerak POLINES
+
+## ☄️ Mahasiswa 1 :
 ```
-Untuk Menlengkapi Tugas Besar
 
 Nama : Moh Iqbal Bagus P H
 
@@ -48,4 +49,5 @@ No Absen : 23
 • State management dengan GetX
 • Fitur Stay Sign in dengan Shared Preference
 • Menyimpan Adrress dengan Shared Preference
+• etc
 
