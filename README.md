@@ -40,10 +40,12 @@ No Absen : 23
 
 
 ## 🛠️ Pengaturan dan Instalasi :
+```
 1. Clone repository ini.
 2. Buka proyek menggunakan Android Studio atau IDE preferensi Anda.
 3. Run Pubspec.yanl (flutter pub get)
 4. Jalankan aplikasi di emulator atau web.
+```
 
 ## 🚀 Features :
 ```
