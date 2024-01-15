@@ -10,8 +10,9 @@
 <img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="100"/>
  </p>
 
-
+ <p align="center">
 Aplikasi ini dibuat Untuk Menlengkapi Tugas Besar dari Pemrograman Perangkat Bergerak POLINES
+</p>
 
 ## ☄️ Mahasiswa 1 :
 ```
