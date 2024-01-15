@@ -1,5 +1,13 @@
 # IR RESTAURANT
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
+  <img src="https://img.shields.io/github/forks/terminator791/IR_Restaurant">
+  <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
+</p>
+
+
+
 Untuk Menlengkapi Tugas Besar
 
 Nama : Moh Iqbal Bagus P H
@@ -20,13 +28,6 @@ Kelas : TI-2A
 NIM: 4.33.22.0.23
 
 No Absen : 23
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
-  <img src="https://img.shields.io/github/forks/terminator791/IR_Restaurant">
-  <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
-</p>
 
 
 -----------------------------------------------
