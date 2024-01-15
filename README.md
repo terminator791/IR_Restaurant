@@ -1,5 +1,5 @@
 
-<img src="[URL_Gambar](https://github.com/terminator791/IR_Restaurant/blob/master/logo.png)" alt="Logo" width="300"/>
+<img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="300"/>
  ## IR RESTAURANT
 
 <p align="center">
