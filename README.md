@@ -21,6 +21,14 @@ NIM: 4.33.22.0.23
 
 No Absen : 23
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
+  <img src="https://img.shields.io/github/forks/terminator791/IR_Restaurant">
+  <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
+</p>
+
+
 -----------------------------------------------
 
 ## 🚀 Features :
