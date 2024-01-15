@@ -1,4 +1,4 @@
-# IR RESTAURANT
+![Logo IR Restaurant](https://github.com/terminator791/IR_Restaurant/blob/master/logo.png) # IR RESTAURANT
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
