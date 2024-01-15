@@ -1,11 +1,12 @@
-# IR RESTAURANT
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
   <img src="https://img.shields.io/github/forks/terminator791/IR_Restaurant">
   <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
 </p>
 
+
+
+# IR RESTAURANT
 
 
 Untuk Menlengkapi Tugas Besar
