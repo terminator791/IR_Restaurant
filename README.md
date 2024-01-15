@@ -1,6 +1,8 @@
-
-<img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="300"/>
  ## IR RESTAURANT
+
+ 
+<img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="150"/>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
