@@ -26,6 +26,7 @@ No Absen : 16
 ## 🚀 Features :
 ```
 • Dark And Light Mode
+• Desain Menarik
 • Animasi Item
 • Otomatis mennghapus item dari cart ketika quantity < 1
 • Menyimpan Data Transaksi di Realtime Database
@@ -34,4 +35,6 @@ No Absen : 16
 • GET API lokasi di INDONESIA
 • Filter Makanan dan Fitur Search
 • State management dengan GetX
+• Fitur Stay Sign in dengan Shared Preference
+• Menyimpan Adrress dengan Shared Preference
 
