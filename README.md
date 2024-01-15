@@ -1,14 +1,15 @@
  ## IR RESTAURANT
 
  <p align="center">
-<img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="150"/>
- </p>
-
-<p align="center">
   <img src="https://img.shields.io/github/stars/terminator791/IR_Restaurant">
   <img src="https://img.shields.io/github/forks/terminator791/IR_Restaurant">
   <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
 </p>
+
+ <p align="center">
+<img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="100"/>
+ </p>
+
 
 Aplikasi ini dibuat Untuk Menlengkapi Tugas Besar dari Pemrograman Perangkat Bergerak POLINES
 
