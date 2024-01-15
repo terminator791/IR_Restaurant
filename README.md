@@ -1,15 +1,24 @@
 # IR RESTAURANT
 
 Untuk Menlengkapi Tugas Besar
+
 Nama : Moh Iqbal Bagus P H
+
 Kelas : TI-2A
+
 NIM: 4.33.22.0.16
+
 No Absen : 16
 
+
+
 Nama : Rifqi Khaezul Ma'ali
+
 Kelas : TI-2A
-NIM: 4.33.22.0.24
-No Absen : 24
+
+NIM: 4.33.22.0.23
+
+No Absen : 23
 
 
 ## 🚀 Features :
