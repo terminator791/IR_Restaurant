@@ -1,12 +1,15 @@
 # IR RESTAURANT
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SinaSys/flutter_japanese_restaurant_app">
-  <img src="https://img.shields.io/github/forks/SinaSys/flutter_japanese_restaurant_app">
-  <img src="https://img.shields.io/github/actions/workflow/status/SinaSys/flutter_japanese_restaurant_app/main.yml?label=CI&logo=github">
-  <img src="https://img.shields.io/github/v/release/SinaSys/flutter_japanese_restaurant_app?label=Release&logo=semantic-release">
-  <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_japanese_restaurant_app?label=Last%20commit">
-</p>
+Untuk Menlengkapi Tugas Besar
+Nama : Moh Iqbal Bagus P H
+Kelas : TI-2A
+NIM: 4.33.22.0.16
+No Absen : 16
+
+Nama : Rifqi Khaezul Ma'ali
+Kelas : TI-2A
+NIM: 4.33.22.0.24
+No Absen : 24
 
 
 ## 🚀 Features :
