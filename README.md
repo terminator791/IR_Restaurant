@@ -7,7 +7,6 @@
 </p>
 
  <p align="center">
-LOGO
 <img src="https://github.com/terminator791/IR_Restaurant/blob/master/logo.png" alt="Logo" width="100"/>
  </p>
 
@@ -16,7 +15,6 @@ Aplikasi ini dibuat Untuk Menlengkapi Tugas Besar dari Pemrograman Perangkat Ber
 
 ## ☄️ Mahasiswa 1 :
 ```
-
 Nama : Moh Iqbal Bagus P H
 
 Kelas : TI-2A
@@ -63,5 +61,6 @@ No Absen : 23
 • Menyimpan Adrress dengan Shared Preference
 • etc
 ```
-## AND THANKS FOR GPT AND OTHERS
+
+## AND THANKS FOR GPT AND THE OTHERS
 
