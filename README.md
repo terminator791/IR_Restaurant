@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/terminator791/IR_Restaurant?label=Last%20commit">
 </p>
 
+## ⛱️ Mahasiswa 1 :
 ```
 Untuk Menlengkapi Tugas Besar
 
@@ -20,6 +21,7 @@ No Absen : 16
 
 ----------------------------------------------
 
+## ⛱️ Mahasiswa 2 :
 ```
 Nama : Rifqi Khaezul Ma'ali
 
