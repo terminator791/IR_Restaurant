@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "947779091751",
+    "firebase_url": "https://flutterrestaurantapp-94dd1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterrestaurantapp-94dd1",
+    "storage_bucket": "flutterrestaurantapp-94dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947779091751:android:8a11e519303c71cb853d02",
+        "android_client_info": {
+          "package_name": "com.example.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947779091751-bpl4ah0dai450uinmqg4heul8to8ojtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIkE7oDA5tPdC0eeQMtTd13ikRDuIuFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947779091751-bpl4ah0dai450uinmqg4heul8to8ojtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947779091751:android:04a74af143cc7da0853d02",
+        "android_client_info": {
+          "package_name": "com.sinasys.flutter_japanese_restaurant_app.flutter_japanese_restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947779091751-bpl4ah0dai450uinmqg4heul8to8ojtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIkE7oDA5tPdC0eeQMtTd13ikRDuIuFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947779091751-bpl4ah0dai450uinmqg4heul8to8ojtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
